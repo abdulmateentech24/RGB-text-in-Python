@@ -2,6 +2,9 @@
 
 This is my first github publish repository. Where you will explore the World of RGB era.
 
-here you go the basic Rgb lights multicolour Textual created because As being a Tech and gaming enthusiastic and as been a kind to person who always want to explore the latest world with an RGB era as being a person who always very happy while I surronded with RGB lights.
-I would like to request you to explore my program and make it use for making RGB Textual creation and Name creation for Multicolour etc.
+Here you have the fundamental RGB lights multicolour textual creation, developed due to my enthusiasm for technology and gaming. As someone who is always eager to explore the latest advancements in the RGB era, I find great joy in being surrounded by RGB lights.
+
+I kindly invite you to explore my program and utilize it for creating RGB textual designs and names in various colours, among other applications.
+
+
 Thankyou for explorinng my first publish git repo, have a wonderful day! 
