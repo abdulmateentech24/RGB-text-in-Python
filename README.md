@@ -7,4 +7,4 @@ Here you have the fundamental RGB lights multicolour textual creation, developed
 I kindly invite you to explore my program and utilize it for creating RGB textual designs and names in various colours, among other applications.
 
 
-Thankyou for explorinng my first publish git repo, have a wonderful day! 
+Thankyou for explorinng my first git repo, have a wonderful day! 
